@@ -2,7 +2,7 @@
 
 
 
-## 🔭 I’m currently working on better-moodle.
+## 🔭 I’m currently working on a face-recognition Software.
 ## 🌱 I’m currently learning Javascript and CSS.
 ## 💬 Ask me about PHP, Web Applications, MySql Databases
 ## 📫 How to reach me: simon@passwd.ch
