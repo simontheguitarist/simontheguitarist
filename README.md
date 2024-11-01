@@ -3,7 +3,7 @@
 
 
 ## 🔭 I’m currently working on some Apps.
-## 🌱 I’m currently learning NextJS.
+## 🌱 I’m currently learning to build profitable and user friendly Apps.
 ## 💬 Ask me about 3d-printing, Web Applications, Sql Databases
 ## 📫 How to reach me: simon@passwd.ch
 ## 😄 Pronouns: he/him
